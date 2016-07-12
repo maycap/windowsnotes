@@ -13,3 +13,7 @@
 
 	dxdiag
 
+
+>2012开机启动项
+
+	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
