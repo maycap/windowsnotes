@@ -25,3 +25,15 @@
 >清理chrome缓存
 
 	chrome://net-internals/#dns
+
+>远程协助
+
+	msra.exe
+
+>远程控制
+
+	mstsc
+
+>计算机管理
+
+	compmgmt.msc
