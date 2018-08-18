@@ -13,7 +13,24 @@
 	
 > 快捷开启  [open_winrm.bat](./scripts/open_winrm.bat)
 
-	获取 open_winrm.bat, 执行，按需确认	
+
+	windows2012 server
+	
+	使用administrator选择登录后，打开powershell，输入
+	
+	如果是admin帐户，右击脚本，选择使用管理员运行，同样可以
+	
+	wget  http://xxxx/open_winrm.bat -outfile  ./open_winrm.bat
+	
+	然后双击运行即可，输入Y确认即可
+	
+	
+	windows7
+	
+	1、设置网络属性为工作网络，公网环境无法开启winrm服务
+	
+	2、打开浏览器，输入 http://xxxx/open_winrm.bat ，选择运行即可
+	
 
 > windows api [windows_api.py](./scripts/windows_api.py)
 	
